@@ -1,4 +1,4 @@
-# [EnergyBoolean (Landscpe)](https://github.com/zpliulab/EnergyBoolean)
+# [EnergyBoolean (Energy Landscpe)](https://github.com/zpliulab/EnergyBoolean)
 
 ![Screenshot](Data/framework.jpg)
 
