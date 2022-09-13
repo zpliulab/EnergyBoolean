@@ -1,8 +1,8 @@
-# [LogBTFs (Embedding logistic regression into Boolean threshold functions to reconstruct Boolean threshold network)](https://github.com/zpliulab/logBTFs)
+# [EnergyBoolean (Landscpe)](https://github.com/zpliulab/EnergyBoolean)
 
 ![Screenshot](Data/framework.jpg)
 
-In this work, an **embedded Boolean threshold network model by aggregating logistic regression with Boolean threshold functions (LogBTFs) ** for inferring gene regulatory networks from single-cell gene expression data was proposed. 
+In this work, an **Landscape** for XXX was proposed. 
 
 
 ## LogBTFs
