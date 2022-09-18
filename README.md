@@ -8,7 +8,7 @@ In this work, an **Landscape** for XXX was proposed.
 ## EnergyBoolean
 <!--START_SECTION:news-->
 * **EnergyBoolean** 
-* If you have any questions about **CNet-SVM**, please directly contact the corresponding author [Prof. Zhi-Ping Liu](https://scholar.google.com/citations?user=zkBXb_kAAAAJ&hl=zh-CN&oi=ao) with the E-mail: zpliu@sdu.edu.cn
+* If you have any questions about **EnergyBoolean**, please directly contact the corresponding author [Prof. Zhi-Ping Liu](https://scholar.google.com/citations?user=zkBXb_kAAAAJ&hl=zh-CN&oi=ao) with the E-mail: zpliu@sdu.edu.cn
 <!--END_SECTION:news-->
 
 
